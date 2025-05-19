@@ -4,8 +4,7 @@
 ---
 ### Evidence:
 ### Reflection:
-Reflecting on this submission
-------
+Reflecting on this submission, I was under stress on which career field to follow. Regarding the task, I was expected to listening to advice
 ## Skills and Interest
 --
 ## Personality Assessment
