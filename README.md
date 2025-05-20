@@ -16,7 +16,7 @@ Reflecting on this submission, I was under stress on which career field to follo
 ### Reflection:
 ## CV Submission
 ### Evidence:
-[View Report](report.docx)
+[View Report](Lisa Zumana CV - CT - Edited.pdf)
 ### Reflection: 
 Reflecting on the CV submission, I was expected to deliver up CV up to standards when applying for the job. 
 
