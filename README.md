@@ -20,6 +20,4 @@ This submission helped me reflect on my skills in terms of what I am good at and
 [📄 The CV evidence](docs/LisaZumanaCV.pdf)
 
 ### Reflection: 
-Reflecting on the CV submission, I was expected to deliver up CV up to standards when applying for the job. 
-
-When creating my CV, I did a section hour after hour to make the CV managable to maintain standards when creating the CV
+Reflecting on the CV submission, I was expected to deliver up CV up to standards when applying for the job. When creating my CV, I did a section hour after hour to make the CV managable to maintain standards when creating the CV.
