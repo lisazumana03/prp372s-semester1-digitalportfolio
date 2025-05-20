@@ -3,8 +3,9 @@
 ## Career Counselling
 ---
 ### Evidence:
+![Screenshot 2025-05-12 090851](https://github.com/user-attachments/assets/9c9f9f7e-778b-40cd-980a-d14ddf83e9a4)
 ### Reflection:
-Reflecting on this submission, I was under stress on which career field to follow. Regarding the task, I was expected to listening to advice
+Reflecting on this submission, I was under stress on which career field to follow based on what I love doing
 ## Skills and Interest
 --
 ## Personality Assessment
