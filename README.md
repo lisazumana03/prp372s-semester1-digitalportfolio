@@ -17,7 +17,7 @@ This submission helped me reflect on my skills in terms of what I am good at and
 ### Reflection:
 ## CV Submission
 ### Evidence:
-[📄 Read the full report](docs/LisaZumanaCV.pdf)
+[📄 The CV evidence](docs/LisaZumanaCV.pdf)
 
 ### Reflection: 
 Reflecting on the CV submission, I was expected to deliver up CV up to standards when applying for the job. 
