@@ -5,7 +5,7 @@
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CareersDevelopmentProof.png)
 
 ### Reflection:
-I was under stress on which career field to follow based on what I love doing. The goal of the course was to help me prepare for my future in the working industry. The task that I had to do was that I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. The outcome was that.
+I was under stress on which career field to follow based on what I love doing. The goal of the course was to help me prepare for my future in the working industry. The task that I had to do was that I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. The outcome of learning this course was that it guided me in setting SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future outside my studies.
 ## Skills and Interests
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/SkillsAndInterestsProof.png)
