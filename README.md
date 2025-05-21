@@ -17,8 +17,8 @@ This submission helped me reflect on my skills in terms of what I am good at and
 ### Reflection: 
 This submission reflect on what my traits are as a person.
 ## Create a CV
---
 ### Evidence:
+![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACV.png)
 ### Reflection:
 I found myself in a situation that I struggled to create a beautiful CV (Curriculum Vitae) in terms of the format constructed. I would be tasked to do this course to help me in terms of creating the CV, the action I committed was that I had to 
 ## CV Submission
