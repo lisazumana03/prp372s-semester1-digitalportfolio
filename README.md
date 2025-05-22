@@ -4,12 +4,24 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CareerDevelopmentProof.png)
 ### Reflection (STAR technique):
-I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry. The task that I had to do was that I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. In this course, I was also able to set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future. The outcome of learning this course was that it encouraged me to set realistic and acheivable goals according to the SMART format and work towards that goal.
+**Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry.
+
+**Task:** I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. 
+
+**Action:** I was also able to set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future. 
+
+**Result:** The outcome of learning this course was that it encouraged me to set realistic and acheivable goals according to the SMART format and work towards that goal.
 ## Skills and Interests
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/SkillsAndInterestsProof.png)
 ### Reflection (STAR technique):
-This submission helped me reflect on my skills in terms of what I am good at and interests in terms of what I like. In terms of the situation, I found myself in crossroads based on the fact that I have lots of skills, but I was confused in terms of what I was intersted in. One of the tasks I took part in was part of a school project, it was a task that involved one of my skills. In terms of action, I constructed a SWOT analysis to determine my strengths, weaknesses opportunities and threats. The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish my activities based on the skills that I posess.
+**Situation:** I found myself in crossroads based on the fact that I have lots of skills, but I was confused in terms of what I was intersted in. 
+
+**Task:** I took part in was part of a school project, it was a task that involved one of my skills.
+
+**Action:** I . 
+
+**Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish my activities based on the skills that I posess.
 ## Personality Assessment
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/PersonalityAssessmentProof.png)
