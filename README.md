@@ -14,7 +14,7 @@ This submission helped me reflect on my skills in terms of what I am good at and
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/PersonalityAssessmentProof.png)
 ### Reflection: 
-This submission reflect on what my traits are as a person. 
+This submission reflect on what my traits are as a person and I completed the course as shown in the screenshot. In terms of situation, I would . The action I undertook to assess my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threa  
 ## Create a CV
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACV.png)
