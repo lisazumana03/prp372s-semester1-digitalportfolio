@@ -26,7 +26,13 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/PersonalityAssessmentProof.png)
 ### Reflection (STAR techique): 
-This submission reflect on what my traits are as a person and I completed the course as shown in the screenshot. In terms of situation, I found myself struggling to find my career path based on my personality. I was expected to draw up a personality assessment and a career path based on the results of my personality assessment. The action I undertook to assess my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry. In the end, I worked out what my career path would be based on my personality.
+**Situation:** I found myself struggling to find my career path based on my personality. 
+
+**Task:** I was expected to draw up a personality assessment and a career path based on the results of my personality assessment. 
+
+**Opportunity:** I had to assess my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry. 
+
+**Result:** I worked out what my career path would be based on my personality.
 ## Create a CV
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACVProof.png)
@@ -35,7 +41,7 @@ This submission reflect on what my traits are as a person and I completed the co
 
 **Task:** I had to do this course, because it was able help me in terms of creating the CV.
 
-**Action:**
+**Action:** I did the course, because it was able to help me construct a competitive CV for today's job market.
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 ## CV Submission
