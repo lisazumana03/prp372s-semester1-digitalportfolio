@@ -6,7 +6,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR technique):
 **Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry.
 
-**Task:** I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. 
+**Task:** I needed to know myself based on my gifts and talents and I also had to think about what was I most talented in based on my path in life. 
 
 **Action:** I was also able to set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future. 
 
@@ -19,7 +19,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I took part in was part of a school project, it was a task that involved one of my skills.
 
-**Action:** I . 
+**Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests
 
 **Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish my activities based on the skills that I posess.
 ## Personality Assessment
@@ -34,6 +34,8 @@ This submission reflect on what my traits are as a person and I completed the co
 **Situation:** I struggled to create a beautiful CV (Curriculum Vitae) in terms of the format constructed.
 
 **Task:** I had to do this course, because it was able help me in terms of creating the CV.
+
+**Action:**
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 ## CV Submission
