@@ -1,10 +1,16 @@
 # Digital portfolio for Semester 1
-------
+This digital portfolio is based on the Work Readiness Module with the evidence supplied and the STAR method was used for reflection.
 ## Career Counselling/ Development
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CareersDevelopmentProof.png)
 ### Reflection (STAR technique):
-I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry. The task that I had to do was that I needed to know myself based on my gifts and talents. I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. In this course, I was also able to set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future. The outcome of learning this course was that it encouraged me to set realistic and acheivable goals according to the SMART format and work towards that goal.
+**Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry. 
+
+**Task:** The task that I had to do was that I needed to know myself based on my gifts and talents. 
+
+**Action:** I decided to construct my CV based on the skills and talents I have, making it easier to find work I am skilled in. In this course, I was also able to set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future. 
+
+**Result:** The outcome of learning this course was that it encouraged me to set realistic and acheivable goals according to the SMART format and work towards that goal.
 ## Skills and Interests
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/SkillsAndInterestsProof.png)
