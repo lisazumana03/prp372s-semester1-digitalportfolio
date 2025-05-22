@@ -22,6 +22,6 @@ This submission reflect on what my traits are as a person and I completed the co
 I found myself in a situation that I struggled to create a beautiful CV (Curriculum Vitae) in terms of the format constructed. I would be tasked to do this course to help me in terms of creating the CV, the action I committed was that I had to 
 ## CV Submission
 ### Evidence:
-[📄 The CV evidence](docs/LisaZumanaCV.pdf)
+![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CVSubmissionProof.png)
 ### Reflection (STAR technique): 
 Reflecting on the CV submission, I was expected to deliver up CV up to standards when applying for the job. When creating my CV, I was tasked with making sure my education history, skills and hobbies/ pasttimes were added to the CV and I was also tasked with compiling a CV checklist to see if the CV has everything required. The action I took was that I reflected on myself based on my skills and the other courses I did before this submission. I would also research the best CV designs to make it a bit competitive. The outcome was that when my CV was submitted, the feedback I got was that it was nice, but it needed a bit of fixing in terms of my education timeline.
