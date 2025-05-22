@@ -19,7 +19,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I took part in was part of a school project, it was a task that involved one of my skills.
 
-**Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests
+**Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
 
 **Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish my activities based on the skills that I posess.
 ## Personality Assessment
@@ -44,7 +44,9 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 **Action:** I did the course, because it was able to help me construct a competitive CV for today's job market.
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
+
 ## CV Submission
+---------------
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CVSubmissionProof.png)
 ### Reflection (STAR technique): 
