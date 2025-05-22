@@ -31,15 +31,19 @@ This submission reflect on what my traits are as a person and I completed the co
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACVProof.png)
 ### Reflection (STAR technique):
-I found myself in a situation that I struggled to create a beautiful CV (Curriculum Vitae) in terms of the format constructed. I would be tasked to do this course to help me in terms of creating the CV. The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
+**Situation:** I struggled to create a beautiful CV (Curriculum Vitae) in terms of the format constructed.
+
+**Task:** I had to do this course, because it was able help me in terms of creating the CV.
+
+**Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 ## CV Submission
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CVSubmissionProof.png)
 ### Reflection (STAR technique): 
 **Situation:** I was expected to deliver up CV up to standards when applying for the job. 
 
-**Task:** When creating my CV, I was tasked with making sure my education history, skills and hobbies/ pasttimes were added to the CV and I was also tasked with compiling a CV checklist to see if the CV has everything required. The action I took was that I reflected on myself based on my skills and the other courses I did before this submission.
+**Task:** When creating my CV, I was tasked with compiling a CV checklist to see if the CV has everything required.
 
-**Action:** I would also research the best CV designs to make it a bit competitive and went through the CV checklist.
+**Action:** I researched the best CV designs to make it a bit competitive and went through the CV checklist.
 
-**Result:** The outcome was that when my CV was submitted, the feedback I got was that it was nice, but it needed a bit of fixing in terms of my education timeline.
+**Result:** The outcome was that when my CV was submitted, the feedback I got was that it was nice, but it needed a bit of fixing to make it more competitive.
