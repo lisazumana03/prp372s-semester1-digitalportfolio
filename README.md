@@ -18,7 +18,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR technique):
 **Situation:** I found myself indecisive based on the fact that I have lots of skills, but I was confused in terms of what I was intersted in. 
 
-**Task:** I had to take part in was part of a school project, it was a task that involved one of my skills.
+**Task:** I completed a school project and while completing the project, there was a task that involved skills from both my soft and technical skills.
 
 **Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
 
