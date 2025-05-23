@@ -22,7 +22,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
 
-**Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish my activities based on the skills that I posess.
+**Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish activities based on the skills that I posess.
 ## Personality Assessment
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/PersonalityAssessmentProof.png)
