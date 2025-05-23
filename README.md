@@ -54,6 +54,6 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** When creating my CV, I was tasked with compiling a CV checklist to see if the CV has everything required.
 
-**Action:** I researched the best CV designs to make it a bit competitive and went through the CV checklist.
+**Action:** I researched the best, but formal CV designs to make it a bit competitive and went through the CV checklist.
 
 **Result:** The outcome was that when my CV was submitted, the feedback I got was that it was nice, but it needed a bit of fixing to make it more competitive.
