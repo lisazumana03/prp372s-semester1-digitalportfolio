@@ -20,7 +20,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I completed a school project and while completing the project, there was a task that involved skills from both my soft and technical skills.
 
-**Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
+**Action:** I completed this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
 
 **Result:** The outcome was gaining a deep understanding in the course so that this understanding can help me accomplish activities based on the skills that I posess.
 ## Personality Assessment
@@ -42,7 +42,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I had to do this course, because it was going to help me in terms of creating the CV.
 
-**Action:** I did this course and look at other sources, because they were able to help me construct a competitive CV for today's job market.
+**Action:** I did this module and look at other sources, because they were able to help me construct a competitive CV for today's job market.
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 
