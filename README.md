@@ -8,7 +8,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I needed to know myself based on my gifts and talents and I also had to think about what was I most talented in based on my path in life. 
 
-**Action:** I was also set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future in terms of my career search. 
+**Action:** I also set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future in terms of my career search. 
 
 **Result:** The outcome of learning this course was that it encouraged me to set realistic and acheivable goals according to the SMART format and work towards that goal.
 ## Skills and Interests
