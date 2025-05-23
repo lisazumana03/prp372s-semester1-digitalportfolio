@@ -15,9 +15,9 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/SkillsAndInterestsProof.png)
 ### Reflection (STAR technique):
-**Situation:** I found myself in crossroads based on the fact that I have lots of skills, but I was confused in terms of what I was intersted in. 
+**Situation:** I found myself indecisive based on the fact that I have lots of skills, but I was confused in terms of what I was intersted in. 
 
-**Task:** I took part in was part of a school project, it was a task that involved one of my skills.
+**Task:** I had to take part in was part of a school project, it was a task that involved one of my skills.
 
 **Action:** I took this module as a way to help me identify what I'm skilled and in and what do I love doing in terms of my interests.
 
@@ -30,7 +30,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I was expected to draw up a personality assessment and a career path based on the results of my personality assessment. 
 
-**Action:** I had to assess my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry, in terms of a SWOT analysis. 
+**Action:** I assessed my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry, in terms of a SWOT analysis. 
 
 **Result:** This course that I did helped me work out what my career path would be based on my personality.
 ## Create a CV
