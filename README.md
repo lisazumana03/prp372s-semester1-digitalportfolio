@@ -40,7 +40,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR technique):
 **Situation:** I struggled to create a beautiful and structured CV (Curriculum Vitae) in terms of the format constructed.
 
-**Task:** I had to do this course, because it was able help me in terms of creating the CV.
+**Task:** I had to do this course, because it was going to help me in terms of creating the CV.
 
 **Action:** I did this course and look at other sources, because they were able to help me construct a competitive CV for today's job market.
 
