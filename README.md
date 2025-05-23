@@ -6,7 +6,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR technique):
 **Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry.
 
-**Task:** I needed to know myself based on my gifts and talents and I also had to think about what was I most talented in based on my path in life. 
+**Task:** I needed to know myself based on my gifts and talents and I also had to think about what was I most talented in so that I could use it for navigating my path in life. 
 
 **Action:** I also set SMART (Specific, Measureable, Attainable, Relevant, Time-Bound) goals for my future in terms of my career search. 
 
