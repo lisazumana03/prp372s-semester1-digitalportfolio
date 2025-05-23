@@ -33,7 +33,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Action:** I assessed my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry, in terms of a SWOT analysis. 
 
-**Result:** This course that I did helped me work out what my career path would be based on my personality.
+**Result:** This course that I did helped me work out what my path in the future would be based on my personality.
 ## Create a CV
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACVProof.png)
