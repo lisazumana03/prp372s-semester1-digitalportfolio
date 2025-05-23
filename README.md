@@ -41,7 +41,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I had to do this course, because it was able help me in terms of creating the CV.
 
-**Action:** I did this course, because it was able to help me construct a competitive CV for today's job market.
+**Action:** I did this course and look at other sources, because they were able to help me construct a competitive CV for today's job market.
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 
