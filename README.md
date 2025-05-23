@@ -4,7 +4,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CareerDevelopmentProof.png)
 ### Reflection (STAR technique):
-**Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. The goal of the course was to help me prepare for my future in the working industry.
+**Situation:** I was under stress on which career field to follow based on what I love doing as I did not make a final decision to go for a career or pursue my education further. 
 
 **Task:** I needed to know myself based on my gifts and talents and I also had to think about what was I most talented in so that I could use it for navigating my path in life. 
 
@@ -41,7 +41,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 
 **Task:** I had to do this course, because it was able help me in terms of creating the CV.
 
-**Action:** I did the course, because it was able to help me construct a competitive CV for today's job market.
+**Action:** I did this course, because it was able to help me construct a competitive CV for today's job market.
 
 **Result:** The outcome from this course was that I gained the skills on how to construct a competitive CV for the job market that is competitive.
 
