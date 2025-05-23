@@ -53,7 +53,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR technique): 
 **Situation:** I was expected to deliver up CV up to standards when applying for the job. 
 
-**Task:** When creating my CV, I was tasked with compiling a CV checklist to see if the CV has everything required.
+**Task:** When creating my CV, I was tasked with compiling a CV checklist to see if the CV has everything that is required.
 
 **Action:** I researched the best, but formal CV designs to make it a bit competitive and went through the CV checklist.
 
