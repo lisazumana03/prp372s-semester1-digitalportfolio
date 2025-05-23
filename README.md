@@ -29,7 +29,7 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Reflection (STAR techique): 
 **Situation:** I found myself struggling to find my path based on my personality. 
 
-**Task:** I was expected to draw up a personality assessment and a career path based on the results of my personality assessment. 
+**Task:** I was expected to draft up a personality assessment and a career path based on the results of my personality assessment. 
 
 **Action:** I assessed my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry, in terms of a SWOT analysis. 
 
