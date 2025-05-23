@@ -26,13 +26,13 @@ This digital portfolio is based on the Work Readiness Module with the evidence s
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/PersonalityAssessmentProof.png)
 ### Reflection (STAR techique): 
-**Situation:** I found myself struggling to find my career path based on my personality. 
+**Situation:** I found myself struggling to find my path based on my personality. 
 
 **Task:** I was expected to draw up a personality assessment and a career path based on the results of my personality assessment. 
 
 **Action:** I had to assess my personality was to identify my strengths and weaknesses that I have as a human being, and in terms of my job hunting, I would also identify my opportunities and threats when it comes to working in the industry, in terms of a SWOT analysis. 
 
-**Result:** I worked out what my career path would be based on my personality.
+**Result:** This course that I did helped me work out what my career path would be based on my personality.
 ## Create a CV
 ### Evidence:
 ![Proof](https://raw.githubusercontent.com/lisazumana03/prp372s-semester1-digitalportfolio/main/screenshots/CreateACVProof.png)
